@@ -26,8 +26,7 @@
 - 🛠️ Building small projects to apply what I learn
 - 🎯 **2026 Goal** → 200+ DSA problems + 3 solid projects
 - 💬 Ask me about **C, pointers, arrays, recursion**
-- 📫 Reach me at **madhavkumar90061@gmail.com
-**
+- 📫 Reach me at **YOUR-EMAIL@gmail.com**
 - ⚡ Fun fact — I debug faster after chai ☕
 
 <br clear="right"/>
